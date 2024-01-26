@@ -1,0 +1,11 @@
+C:\Users\Ahmed Abdelmoneim\source\repos\Amazing Ninja\Amazing Ninja\bin\Debug\Amazing Ninja.exe.config
+C:\Users\Ahmed Abdelmoneim\source\repos\Amazing Ninja\Amazing Ninja\bin\Debug\Amazing Ninja.exe
+C:\Users\Ahmed Abdelmoneim\source\repos\Amazing Ninja\Amazing Ninja\bin\Debug\Amazing Ninja.pdb
+C:\Users\Ahmed Abdelmoneim\source\repos\Amazing Ninja\Amazing Ninja\obj\Debug\Amazing Ninja.csproj.AssemblyReference.cache
+C:\Users\Ahmed Abdelmoneim\source\repos\Amazing Ninja\Amazing Ninja\obj\Debug\Amazing Ninja.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ahmed Abdelmoneim\source\repos\Amazing Ninja\Amazing Ninja\obj\Debug\Amazing_Ninja.Properties.Resources.resources
+C:\Users\Ahmed Abdelmoneim\source\repos\Amazing Ninja\Amazing Ninja\obj\Debug\Amazing Ninja.csproj.GenerateResource.cache
+C:\Users\Ahmed Abdelmoneim\source\repos\Amazing Ninja\Amazing Ninja\obj\Debug\Amazing Ninja.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Abdelmoneim\source\repos\Amazing Ninja\Amazing Ninja\obj\Debug\Amazing Ninja.exe
+C:\Users\Ahmed Abdelmoneim\source\repos\Amazing Ninja\Amazing Ninja\obj\Debug\Amazing Ninja.pdb
+C:\Users\Ahmed Abdelmoneim\source\repos\Amazing Ninja\Amazing Ninja\obj\Debug\Amazing_Ninja.introoo.resources
